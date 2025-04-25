@@ -1,5 +1,4 @@
 # Backup-Script
-Step 2: Create the Backup Script
 Create the Script File: Open a text editor and create a new script file and chmod file:
 ```bash
 touch backup.sh
