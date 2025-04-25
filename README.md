@@ -26,4 +26,7 @@ LOG_RETENTION=5
 EMAIL="admin@example.com"
 ```
 How to test the failure alert
+
+
+
 change and dir for backup or  source dir  to non exist dir and check mail or backup.log
